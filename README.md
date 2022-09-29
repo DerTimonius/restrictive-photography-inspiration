@@ -17,7 +17,7 @@ restrictions - albeit of course some are not sensible. And,
 sometimes, things don't change. That's because the lists now do not
 have many things in them!
 
-![Screenshot of the three different types of restrictions](./img/Screenshot1.png)
+![Screenshot of the three different types of restrictions](/src/img/Screenshot1.PNG)
 
 ### Usage
 
