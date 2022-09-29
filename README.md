@@ -7,6 +7,7 @@ restrictions that will help you get inspired. If you have any other
 ideas for restrictions, feel free to contact me!
 
 There are three different types of restrictions:
+
 1. Restrict your subjects/motives
 2. Restrict your gear
 3. Use different gimmicks like prisms or filters
@@ -19,4 +20,7 @@ have many things in them!
 ![Screenshot of the three different types of restrictions](./img/Screenshot1.png)
 
 ### Usage
+
 By clicking on the "Get inspired" button, all three restrictions will be chosen randomly. If you toggle "Pause" in any field, this field will not be used the next time the button is pressed.
+
+(Please note that responsive design has not yet been implemented, though it will be in the future.)

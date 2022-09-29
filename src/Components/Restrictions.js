@@ -70,11 +70,10 @@ function Restrictions() {
               />
               Pause
             </label>
-            {/* Pause */}
           </div>
         </div>
         <div className="subjects-container">
-          <h2>Restrict your gear</h2>
+          <h2>Gear</h2>
           <div className="subject">
             <Typical wrapper="h4" steps={[restriction, 1000]} />
             <label>
