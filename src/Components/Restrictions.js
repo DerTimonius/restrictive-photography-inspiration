@@ -59,7 +59,7 @@ function Restrictions() {
     <div>
       <div className="inspiration">
         <div className="subjects-container">
-          <h2>Subject/Motive</h2>
+          <h2>Subject / Motive</h2>
           <div className="subject">
             <Typical wrapper="h4" steps={[subject, 1000]} />
             <label>

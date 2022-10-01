@@ -18,6 +18,7 @@ root.render(
           background-image: url(${image});
           background-repeat: no-repeat;
           background-size: cover;
+          background-position: center center;
         }
       `}
     />
