@@ -12,7 +12,8 @@ const subjectsArr = [
   'Landscape',
   'Woodland',
   'Macro Photography',
-  'Reflexions',
+  'Reflections',
+  'Minimalism',
 ];
 
 const restrictionsArr = [

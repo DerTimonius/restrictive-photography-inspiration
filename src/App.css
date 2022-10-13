@@ -51,6 +51,7 @@
   width: 256px;
   background-color: #333333;
   color: white;
+  margin-bottom: 24px;
 }
 .btn-reverse:active {
   color: black;
